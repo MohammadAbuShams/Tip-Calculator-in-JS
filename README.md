@@ -8,3 +8,7 @@ A simple **Tip Calculator** built using **HTML**, **CSS**, and **JavaScript**. T
 - **Easy to Use**: Provides an intuitive interface for calculating tips.
 - **Responsive Design**: Works well on all devices.
 
+## Live Demo
+
+Check out the live demo of the website here: (https://mohammadabushams.github.io/Tip-Calculator-in-js-/)
+
