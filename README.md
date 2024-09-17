@@ -10,5 +10,5 @@ A simple **Tip Calculator** built using **HTML**, **CSS**, and **JavaScript**. T
 
 ## Live Demo
 
-Check out the live demo of the website [here](https://mohammadabushams.github.io/Tip-Calculator-in-js-/)
+Check out the live demo of the website [here](https://mohammadabushams.github.io/Tip-Calculator-in-JS/)
 
